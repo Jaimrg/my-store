@@ -21,4 +21,14 @@
 .loja{
     position:absolute;
     right: 1.25rem;
+    background-color: white;
+    color: rgb(25, 118, 210);
+}
+
+.icon{
+    color: rgb(25, 118, 210);
+}
+
+.cho{
+    color: rgb(25, 118, 210);
 }
